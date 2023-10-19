@@ -32,4 +32,4 @@ RUJAK ||--o{ SAYUR : tersusun
 ## 4. Arsitektur Sistem
 ## 5. Teknologi, Library, dan Framework
 ## 6. Desain User Experience dan User Interface
-! [Contoh](https://www.figma.com/file/fyEcP3JXW92TcKZXS8RXFH/SB-Laundry?type=design&node-id=34%3A2&mode=design&t=DXPDnc2gQUsUxBnO-1)
+! [Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
