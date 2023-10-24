@@ -5,9 +5,7 @@
   kali ini saya mengambil studi kasus dari pondok pesantren, yakni dengan membuat sistem layanan laundry digital dimana mempermudah  santri dalam melakukan pendataan, penjadwalan dan berbagai macam fitur yang dapat mempermudah  dalam  bidang jasa laundry pondok. <br>
   
   ## 1.2 Deskripsi Teknologi Informasi
-  Aplikasi jasa laundry, yang saya beri nama SBL ( Sumur Bandung Laundry), Aplikasi jasa laundry khusus "Pondok Pesantren Pembangunan Sumur Bandung". Sampel/contoh pondok yang saya ambil. Menawarkan fitur sebagai berikut : <br>
-  1. (Pesan Laundry), Simpel dan sederhana, memudahkan user dalam prosesi pemesanan laundry <br>
-  2. (Pengingat Jadwal Laundry ), Memberi Nottifikasi kepada user bahwa jadwal laundry telah tiba, cukup dengan notifikasi sederhana <br>
+   <br>
   
 
   ## 1.3 Branding 
