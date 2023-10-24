@@ -5,6 +5,7 @@
   kali ini saya mengambil studi kasus dari pondok pesantren, yakni dengan membuat sistem layanan laundry digital dimana mempermudah  santri dalam melakukan pendataan, penjadwalan dan berbagai macam fitur yang dapat mempermudah  dalam  bidang jasa laundry pondok. <br>
   
   ## 1.2 Deskripsi Teknologi Informasi
+  
    <br>
   
 
@@ -40,10 +41,31 @@ Pengguna | Melihat Jadwal dan Riwayat Laundry | Mengetahui jadwal Laundry ayng b
 ## 3. Struktur Data
 ```mermaid
 erDiagram
-RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    PENGGUNA ||--o{ LAYANAN  : memesan
+    PENGGUNA {
+        int nomor_induk_santri
+        string NAMA
+        string divisi_sekolah
+        string password
+    }
+    LAYANAN ||--|{ LINE-ITEM : mengandung
+    LAYANAN {
+        string Layanan_Jasa
+        string jenis_layanan
+        string jumlah_pesanan
+    }
+    LINE-ITEM {
+        int Nomor_pesanan
+        string Jadwal_laundry
+        float Limit_laundry
+    }
 ```
 ## 4. Arsitektur Sistem
+```mermaid
+flowchart TD
+    Database:Firebase <--> Aplikasi_Web_Backend:JavaScript-express.js <--> Web_server:JavaScript-express.js <--> Aplikasi_AndroidDan_IOS:Flutter_Dart
+```
 ## 5. Teknologi, Library, dan Framework
+
 ## 6. Desain User Experience dan User Interface
 ! [Link](https://www.figma.com/proto/fyEcP3JXW92TcKZXS8RXFH/SB-Laundry?page-id=0%3A1&type=design&node-id=34-37&t=IFAAdm7krjaNnifP-1&scaling=scale-down&starting-point-node-id=0%3A3&mode=design)
