@@ -16,7 +16,10 @@ Santri aktif "Pondok Pesantren Pembangunan Sumur Bandung".<br>
 User experience theme:<br>
 Sederhana,
 Mudah<br>
-Warna: Dominan Hijau, Sesuai dengan warna dominan Pondok
+Warna: Dominan Hijau, Sesuai dengan warna dominan Pondok <br>
+Design : <br>
+![Deskripsi Gambar]()
+
 
   ## 2. User Story
   Sebagai | Saya Ingin | Supaya Dapat | Prioritas
