@@ -18,7 +18,7 @@ Sederhana,
 Mudah<br>
 Warna: Dominan Hijau, Sesuai dengan warna dominan Pondok <br>
 Design : <br>
-![Deskripsi Gambar]()
+![Deskripsi Gambar](aass.png)
 
 
   ## 2. User Story
