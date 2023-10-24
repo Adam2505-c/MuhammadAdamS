@@ -1,12 +1,16 @@
 ## 1.1 Latar Belakang
   Kemajuan teknologi informasi yang sangat cepat dan memasuki ke seluruh sektor dalam kehidupan sangat memungkinkan siapa saja dan apa saja yang sebelumnya tidak terbayangkan menjadi sebuah kenyataan. 
   Termasuk lingkungan pesantren, tempat lembaga pendidikan keagamaan yang masih eksis hingga saat ini, digitalisasi di dalam Pondok Pesantren menjadi salah satu tanda bahwa lembaga pesantren bukan lembaga pendidikan yang kurang menerima akan kemajuan dalam bidang teknologi informasi. 
-  kali ini saya mengambil studi kasus dari pondok pesantren, yakni dengan membuat sistem layanan laundry digital dimana mempermudah  santri dalam melakukan pendataan, penjadwalan dan berbagai macam fitur yang dapat mempermudah  dalam  bidang jasa laundry pondok.
+  kali ini saya mengambil studi kasus dari pondok pesantren, yakni dengan membuat sistem layanan laundry digital dimana mempermudah  santri dalam melakukan pendataan, penjadwalan dan berbagai macam fitur yang dapat mempermudah  dalam  bidang jasa laundry pondok. <br>
+  
   ## 1.2 Deskripsi Teknologi Informasi
-  lorem ipsum dolor sit amet paaarra bellum
+  Aplikasi jasa laundry, yang saya beri nama SBL ( Sumur Bandung Laundry), Aplikasi jasa laundry khusus "Pondok Pesantren Pembangunan Sumur Bandung". Sampel/contoh pondok yang saya ambil. Menawarkan fitur sebagai berikut : <br>
+  1. (Pesan Laundry), Simpel dan sederhana, memudahkan user dalam prosesi pemesanan laundry <br>
+  2. (Pengingat Jadwal Laundry ), Memberi Nottifikasi kepada user bahwa jadwal laundry telah tiba, cukup dengan notifikasi sederhana <br>
+  
 
   ## 1.3 Branding 
- Adapun Brand yang dirancang dalam sistem aplikasi laundry ini adalah :
+ Adapun Brand yang dirancang dalam sistem aplikasi laundry ini adalah : <br>
 
 Merk: S B L <br>
 Tagline: Laundry Mundah !<br>
