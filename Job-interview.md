@@ -71,3 +71,11 @@ flowchart TD
 
 ## 6. Desain User Experience dan User Interface
 ! [Link](https://www.figma.com/proto/fyEcP3JXW92TcKZXS8RXFH/SB-Laundry?page-id=0%3A1&type=design&node-id=34-37&t=IFAAdm7krjaNnifP-1&scaling=scale-down&starting-point-node-id=0%3A3&mode=design)
+
+## 7. Demonstrasi Video
+## 8. Dalam video, jelaskan bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu !
+## 9. Dalam video, jelaskan bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu !
+## 10. Dalam video, jelaskan bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu !
+## 11. Dalam video, jelaskan bagaimana database / sistem basis data berperan dalam produk teknologi informasimu !
+
+
