@@ -47,7 +47,6 @@ erDiagram
     PENGGUNA {
         int nomor_induk_santri
         string NAMA
-        string divisi_sekolah
         string password
     }
     LAYANAN ||--|{ LINE-ITEM : mengandung
@@ -68,7 +67,7 @@ flowchart TD
     Database:Firebase <--> Aplikasi_Web_Backend:JavaScript-express.js <--> Web_server:JavaScript-express.js <--> Aplikasi_AndroidDan_IOS:Flutter_Dart
 ```
 ## 5. Teknologi, Library, dan Framework
-
+Flutter, dart, Get cli <br>
 ## 6. Desain User Experience dan User Interface
 ! [Link](https://www.figma.com/proto/fyEcP3JXW92TcKZXS8RXFH/SB-Laundry?page-id=0%3A1&type=design&node-id=34-37&t=IFAAdm7krjaNnifP-1&scaling=scale-down&starting-point-node-id=0%3A3&mode=design)
 
