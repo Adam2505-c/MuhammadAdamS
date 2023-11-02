@@ -1,29 +1,32 @@
-## MEMBUAT APLIKASI JASA LAUNDRY ( S B L ) <br>
+## MEMBUAT APLIKASI SISTEM MANAJEMEN PESANTREN <br>
 ## 1.1 Latar Belakang
-  Kemajuan teknologi informasi yang sangat cepat dan memasuki ke seluruh sektor dalam kehidupan sangat memungkinkan siapa saja dan apa saja yang sebelumnya tidak terbayangkan menjadi sebuah kenyataan. 
-  Termasuk lingkungan pesantren, tempat lembaga pendidikan keagamaan yang masih eksis hingga saat ini, digitalisasi di dalam Pondok Pesantren menjadi salah satu tanda bahwa lembaga pesantren bukan lembaga pendidikan yang kurang menerima akan kemajuan dalam bidang teknologi informasi. 
-  kali ini saya mengambil studi kasus dari pondok pesantren, yakni dengan membuat sistem layanan laundry digital dimana mempermudah  santri dalam melakukan pendataan, penjadwalan dan berbagai macam fitur yang dapat mempermudah  dalam  bidang jasa laundry pondok. <br>
+Kemajuan Teknologi Informasi kian tak terbendung, Pondok pesantren sebagai sebuah lembaga pendidikan turut terasa imbasnya, Salah satunya Yayasan Pondok Pesantren Pembangunan "Sumur Bandung" Cililin. Digitalisasi informasi menjadi hal yang sulit dihindari. Maka dari itu, mesti ada layanan terpadu Pondok yang terintegrasi dan menjadi layanan informatif bagi santri, wali santri, dan seluruh warga pesantren serta masyarakat pada umumnya. <br>
   
   ## 1.2 Deskripsi Teknologi Informasi
-Aplikasi Jasa LAundry ini diberi nama S B L, singkatan dari Sumur Bandung Laundry. Aplikasi yang bergerak di dalam jasa Laundry. Aplikasi ini dapat : <br>
-1. Memesan Laundry dengan mudah dan simpel. <br>
-2. Menerima Notifikasi Pengingat Jadwal Laundry <br>
-3. Mengatur limit pemesanan Laundry dalam se bulan.  <br>
-  
+Aplikasi ini bergerak di dalam sistem informasi serta layanan Pondok Pesantren. Aplikasi ini dapat : <br>
+1. Mendapatkan Informasi mengenai layanan Pondok. <br>
+2. Layanan Pembayaran Infaq Bulanan (Syahriah) bagi santri <br>
+3. Layanan Jasa Laundry Pondok.  <br>
+4. Mendapatkan Informasi mengenai perkembangan akademik santri.  <br>
+5. Menampilkan amalan ibadah amaliyah pondok.  <br>
+6. Menjadi Sistem integrasi digitalisasi pemberkasan, dan kegiatan administrasi kantor Pondok Pesantren
 
   ## 1.3 Branding 
- Adapun Brand yang dirancang dalam sistem aplikasi laundry ini adalah : <br>
+ Adapun Brand yang dirancang dalam sistem Layana Pondok Pesantren ini adalah :  <br>
 
-Merk: S B L <br>
-Tagline: Laundry Mundah !<br>
-Campaign: Bagaimana membuat aplikasi yang memperrmudah sistem layanan Laundry di " Pondok Pesantren Pembangunan Sumur Bandung "<br>
+Merk: SBQu <br>
+Tagline: _Sumur Bandung Ummuna!_<br>
+Campaign: Bagaimana membuat aplikasi yang mempermudah sistem layanan  di " Pondok Pesantren Pembangunan Sumur Bandung "<br>
 Target user:<br>
-Santri aktif "Pondok Pesantren Pembangunan Sumur Bandung".<br>
+- Santri aktif "Pondok Pesantren Pembangunan Sumur Bandung".<br>
+- Wali Santri "Pondok Pesantren Pembangunan Sumur Bandung". <br>
+- Guru, Staf, dan seluruh warga "Pondok Pesantren Pembangunan Sumur Bandung".<br>
+- Muslim, Masyarakat seluruh kalangan umur. <br>
 User experience theme:<br>
 Sederhana,
 Mudah<br>
 Warna: Dominan Hijau, Sesuai dengan warna dominan Pondok <br>
-Design : <br>
+Inspirasi Design : <br>
 
 
 ![Deskripsi Gambar](design.png)
