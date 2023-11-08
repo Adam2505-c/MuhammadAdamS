@@ -29,7 +29,7 @@ Warna: Dominan Hijau, Sesuai dengan warna dominan Pondok <br>
 Inspirasi Design : <br>
 
 
-![Deskripsi Gambar](design.png)
+![Deskripsi Gambar](SbQu.jpeg)
 
 
   ## 2. User Story
@@ -46,23 +46,42 @@ Pengguna | Melihat Jadwal dan Riwayat Laundry | Mengetahui jadwal Laundry ayng b
 ## 3. Struktur Data
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ LAYANAN  : memesan
+    PENGGUNA ||--o{ LAYANAN  : Mengakses
     PENGGUNA {
         int nomor_induk_santri
         string NAMA
         string password
     }
-    LAYANAN ||--|{ LINE-ITEM : mengandung
+    LAYANAN ||--|{ Berita : akses
     LAYANAN {
-        string Layanan_Jasa
-        string jenis_layanan
-        string jumlah_pesanan
+        string Layanan
+        string jenisLayanan
     }
-    LINE-ITEM {
-        int Nomor_pesanan
-        string Jadwal_laundry
-        float Limit_laundry
+    Berita {
+        int id_Berita
+        String Berita
+        string Penulis_berita
+}
+ LAYANAN ||--|{ IbadahAmaliyah : akses
+      IbadahAmaliyah {
+        int id_amalan
+        String AmaliyahWirid
+}
+ PENGGUNA ||--o|  Infaq   : Membayar
+    Infaq {
+        int Nomor_Rek_Pondok
+        int Jumlah_Transfer
+        string NAMA
+        string password
     }
+ LAYANAN ||--|{ Akademik : akses
+      Akademik {
+        int id_Santri
+        String Indeks_Akademik
+        String jurusan_santri
+        String nama_santri
+}
+
 ```
 ## 4. Arsitektur Sistem
 ```mermaid
@@ -70,7 +89,7 @@ flowchart TD
     Database:Firebase <--> Aplikasi_Web_Backend:JavaScript-express.js <--> Web_server:JavaScript-express.js <--> Aplikasi_AndroidDan_IOS:Flutter_Dart
 ```
 ## 5. Teknologi, Library, dan Framework
-Flutter, dart, Get cli <br>
+Flutter, dart, Get cli, Microsoft Windows <br>
 ## 6. Desain User Experience dan User Interface
 ! [Link](https://www.figma.com/proto/fyEcP3JXW92TcKZXS8RXFH/SB-Laundry?page-id=0%3A1&type=design&node-id=34-37&t=IFAAdm7krjaNnifP-1&scaling=scale-down&starting-point-node-id=0%3A3&mode=design)
 
